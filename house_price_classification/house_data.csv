@@ -1,0 +1,9 @@
+Area,Bedrooms,Bathrooms,Location,PriceCategory
+500,2,1,Suburban,Low
+700,3,2,Urban,Medium
+1500,4,3,Urban,High
+60000,3,2,Rural,Low
+2500,4,3,Suburban,High
+1500,3,2,Urban,Medium
+1000,2,1,Rural,Low
+2500,5,4,Urban,High
